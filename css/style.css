@@ -3,7 +3,8 @@ body {
 }
 
 section,
-header {
+header,
+footer {
     width: 60%;
     margin: 0 auto auto;
 }
@@ -22,4 +23,15 @@ ul li {
     line-height: 2rem;
     list-style-type: none;
     font-style: italic;
+}
+
+footer {
+    margin-top: 3rem;
+}
+
+footer ul li {
+    display: inline-block;
+    height: 2rem;
+    text-decoration: none;
+    padding: 10px 25px;
 }
