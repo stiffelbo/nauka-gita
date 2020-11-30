@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section,
+header {
+    width: 60%;
+    margin: 0 auto auto;
+}
+
+.sub-header {
+    font-style: italic;
+    color: rgb(39, 37, 37);
+}
+
+p {
+    padding: 1rem 0;
+    line-height: 2rem;
+}
+
+ul li {
+    line-height: 2rem;
+    list-style-type: none;
+    font-style: italic;
+}
