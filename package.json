@@ -1,0 +1,28 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiffelbo/nauka-gita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stiffelbo/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/stiffelbo/nauka-gita#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^4.0.2",
+    "postcss-cli-simple": "^3.1.0"
+  }
+}
