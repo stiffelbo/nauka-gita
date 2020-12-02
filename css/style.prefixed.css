@@ -10,6 +10,7 @@ footer {
 }
 
 .sub-header {
+    display: -ms-flexbox;
     display: flex;
     font-style: italic;
     color: rgb(39, 37, 37);
